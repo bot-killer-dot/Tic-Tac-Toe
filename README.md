@@ -19,7 +19,7 @@ Ruby
 Required: be sure to have ruby and git installed on your computer.
 
 1. Open the Terminal and go to the folder you desire to clone the game in.
-2. Clone this project by Writing "git clone https://github.com/hamayun-cpu/Tic-Tac-Toe.git"
+2. Clone this project by Writing "git clone https://github.com/bot-killer-dot/Tic-Tac-Toe.git"
 3. Go inside the "Tic-Tac-Toe" folder you've just cloned. (cd Tic-Tac-Toe)
 4. Write "ruby bin/main.rb" in the terminal to execute the game.
 
@@ -41,11 +41,10 @@ Win examples for "X":
 
 ## Authors
 
-👤 **Hamayun**
+👤 **Ameer Farooq**
 
-- Github: [@githubhandle](https://github.com/hamayun-cpu)
-- Twitter: [@twitterhandle](https://twitter.com/hamayun_waheed?s=09&fbclid=IwAR0rfO9cMDDeCX8LfXf4cCNQDrL4LpJ02Q2csWhcT-VtMQ0Cy9EgTB4Wq8E)
-- Linkedin: [linkedin](https://www.linkedin.com/in/hamayun-waheed/)
+- Github: [githubhandle](https://github.com/bot-killer-dot)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ameer-farooq1/)
 
 👤 **abmasadullah**
 
